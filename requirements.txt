@@ -1,0 +1,3 @@
+IPy==1.01
+nmap==0.0.1
+python_nmap==0.6.1
